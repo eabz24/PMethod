@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Payment Method</string>
+    <string name="PaymentMethod">Payment Method</string>
+    <string name="online">Online Banking</string>
+    <string name="cash">Cash on delivery</string>
+    <string name="QRCode">QRCode</string>
+    <string name="value">Paypal</string>
+    <string name="master">card</string>
+    <string name="boon">zu</string>
+    <string name="todo">TODO</string>
+    <string name="view">Choose a payment method:</string>
+
+
+</resources>
